@@ -1,0 +1,183 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="sinema_otomasyonModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="admin">
+    <Key>
+      <PropertyRef Name="admin_id" />
+    </Key>
+    <Property Name="admin_id" Type="Int32" Nullable="false" />
+    <Property Name="admin_kadi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="admin_sifre" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="bilet">
+    <Key>
+      <PropertyRef Name="bilet_id" />
+    </Key>
+    <Property Name="bilet_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="film_adi" Type="Int32" Nullable="false" />
+    <Property Name="koltuk_id" Type="Int32" Nullable="false" />
+    <Property Name="salon_id" Type="Int32" Nullable="false" />
+    <Property Name="seans_id" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="film_kategori">
+    <Key>
+      <PropertyRef Name="tur_id" />
+    </Key>
+    <Property Name="tur_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="tur_adi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="film_seans">
+    <Key>
+      <PropertyRef Name="film_id" />
+    </Key>
+    <Property Name="film_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="film_adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="seans_tarih" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="seans_saat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="salon_adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="film_resim" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="filmler">
+    <Key>
+      <PropertyRef Name="film_id" />
+    </Key>
+    <Property Name="film_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="film_adi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="film_turu" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="yonetmen_adi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="yapimci_adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="film_oyuncu" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="film_tarih" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="film_resim" Type="String" MaxLength="150" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="koltuk">
+    <Key>
+      <PropertyRef Name="koltuk_id" />
+    </Key>
+    <Property Name="koltuk_id" Type="Int32" Nullable="false" />
+    <Property Name="salon_id" Type="Int32" Nullable="false" />
+    <Property Name="koltuk_sayisi" Type="Int32" />
+  </EntityType>
+  <EntityType Name="musteriler">
+    <Key>
+      <PropertyRef Name="musteri_id" />
+    </Key>
+    <Property Name="musteri_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="musteri_adi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="musteri_soyadi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="musteri_telefon" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+    <Property Name="musteri_tipi" Type="String" MaxLength="10" FixedLength="true" Unicode="true" />
+  </EntityType>
+  <EntityType Name="oyuncu">
+    <Key>
+      <PropertyRef Name="oyuncu_id" />
+    </Key>
+    <Property Name="oyuncu_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="film_oyuncu" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="salon">
+    <Key>
+      <PropertyRef Name="salon_id" />
+    </Key>
+    <Property Name="salon_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="salon_adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="film_id" Type="Int32" />
+    <Property Name="kapasite" Type="Decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="seans">
+    <Key>
+      <PropertyRef Name="seans_id" />
+    </Key>
+    <Property Name="seans_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="seans_saat" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="String" MaxLength="128" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="principal_id" Type="Int32" Nullable="false" />
+    <Property Name="diagram_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="version" Type="Int32" />
+    <Property Name="definition" Type="Binary" MaxLength="Max" FixedLength="false" />
+  </EntityType>
+  <EntityType Name="yapımcı">
+    <Key>
+      <PropertyRef Name="yapimci_id" />
+    </Key>
+    <Property Name="yapimci_id" Type="Int32" Nullable="false" />
+    <Property Name="yapimci_adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="film_id" Type="Int32" />
+  </EntityType>
+  <EntityType Name="yapimci">
+    <Key>
+      <PropertyRef Name="yapimci_id" />
+    </Key>
+    <Property Name="yapimci_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="yapimci_adi" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="film_id" Type="Int32" />
+  </EntityType>
+  <EntityType Name="yonetmen">
+    <Key>
+      <PropertyRef Name="yonetmen_id" />
+    </Key>
+    <Property Name="yonetmen_id" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="yonetmen_adi" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityContainer Name="veritabani" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="admin" EntityType="Self.admin" />
+    <EntitySet Name="bilet" EntityType="Self.bilet" />
+    <EntitySet Name="film_kategori" EntityType="Self.film_kategori" />
+    <EntitySet Name="film_seans" EntityType="Self.film_seans" />
+    <EntitySet Name="filmler" EntityType="Self.filmler" />
+    <EntitySet Name="koltuk" EntityType="Self.koltuk" />
+    <EntitySet Name="musteriler" EntityType="Self.musteriler" />
+    <EntitySet Name="oyuncu" EntityType="Self.oyuncu" />
+    <EntitySet Name="salon" EntityType="Self.salon" />
+    <EntitySet Name="seans" EntityType="Self.seans" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" />
+    <EntitySet Name="yapımcı" EntityType="Self.yapımcı" />
+    <EntitySet Name="yapimci" EntityType="Self.yapimci" />
+    <EntitySet Name="yonetmen" EntityType="Self.yonetmen" />
+    <FunctionImport Name="sp_alterdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_creatediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="version" Mode="In" Type="Int32" />
+      <Parameter Name="definition" Mode="In" Type="Binary" />
+    </FunctionImport>
+    <FunctionImport Name="sp_dropdiagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagramdefinition" ReturnType="Collection(sinema_otomasyonModel.sp_helpdiagramdefinition_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_helpdiagrams" ReturnType="Collection(sinema_otomasyonModel.sp_helpdiagrams_Result)">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+    </FunctionImport>
+    <FunctionImport Name="sp_renamediagram">
+      <Parameter Name="diagramname" Mode="In" Type="String" />
+      <Parameter Name="owner_id" Mode="In" Type="Int32" />
+      <Parameter Name="new_diagramname" Mode="In" Type="String" />
+    </FunctionImport>
+    <FunctionImport Name="sp_upgraddiagrams" />
+  </EntityContainer>
+  <ComplexType Name="sp_helpdiagramdefinition_Result">
+    <Property Type="Int32" Name="version" Nullable="true" />
+    <Property Type="Binary" Name="definition" Nullable="true" />
+  </ComplexType>
+  <ComplexType Name="sp_helpdiagrams_Result">
+    <Property Type="String" Name="Database" Nullable="true" MaxLength="128" />
+    <Property Type="String" Name="Name" Nullable="false" MaxLength="128" />
+    <Property Type="Int32" Name="ID" Nullable="false" />
+    <Property Type="String" Name="Owner" Nullable="true" MaxLength="128" />
+    <Property Type="Int32" Name="OwnerID" Nullable="false" />
+  </ComplexType>
+</Schema>

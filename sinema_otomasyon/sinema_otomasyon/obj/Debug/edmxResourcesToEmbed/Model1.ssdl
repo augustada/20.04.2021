@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="sinema_otomasyonModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="admin">
+    <Key>
+      <PropertyRef Name="admin_id" />
+    </Key>
+    <Property Name="admin_id" Type="int" Nullable="false" />
+    <Property Name="admin_kadi" Type="varchar" MaxLength="50" />
+    <Property Name="admin_sifre" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="bilet">
+    <Key>
+      <PropertyRef Name="bilet_id" />
+    </Key>
+    <Property Name="bilet_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="film_adi" Type="int" Nullable="false" />
+    <Property Name="koltuk_id" Type="int" Nullable="false" />
+    <Property Name="salon_id" Type="int" Nullable="false" />
+    <Property Name="seans_id" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="film_kategori">
+    <Key>
+      <PropertyRef Name="tur_id" />
+    </Key>
+    <Property Name="tur_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="tur_adi" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="film_seans">
+    <Key>
+      <PropertyRef Name="film_id" />
+    </Key>
+    <Property Name="film_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="film_adi" Type="nvarchar" MaxLength="50" />
+    <Property Name="seans_tarih" Type="nvarchar" MaxLength="50" />
+    <Property Name="seans_saat" Type="nvarchar" MaxLength="50" />
+    <Property Name="salon_adi" Type="nvarchar" MaxLength="50" />
+    <Property Name="film_resim" Type="varchar" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="filmler">
+    <Key>
+      <PropertyRef Name="film_id" />
+    </Key>
+    <Property Name="film_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="film_adi" Type="varchar" MaxLength="50" />
+    <Property Name="film_turu" Type="varchar" MaxLength="50" />
+    <Property Name="yonetmen_adi" Type="varchar" MaxLength="50" />
+    <Property Name="yapimci_adi" Type="nvarchar" MaxLength="50" />
+    <Property Name="film_oyuncu" Type="varchar" MaxLength="50" />
+    <Property Name="film_tarih" Type="varchar" MaxLength="50" />
+    <Property Name="film_resim" Type="varchar" MaxLength="150" />
+  </EntityType>
+  <EntityType Name="koltuk">
+    <Key>
+      <PropertyRef Name="koltuk_id" />
+    </Key>
+    <Property Name="koltuk_id" Type="int" Nullable="false" />
+    <Property Name="salon_id" Type="int" Nullable="false" />
+    <Property Name="koltuk_sayisi" Type="int" />
+  </EntityType>
+  <EntityType Name="musteriler">
+    <Key>
+      <PropertyRef Name="musteri_id" />
+    </Key>
+    <Property Name="musteri_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="musteri_adi" Type="varchar" MaxLength="50" />
+    <Property Name="musteri_soyadi" Type="varchar" MaxLength="50" />
+    <Property Name="musteri_telefon" Type="varchar" MaxLength="50" />
+    <Property Name="musteri_tipi" Type="nchar" MaxLength="10" />
+  </EntityType>
+  <EntityType Name="oyuncu">
+    <Key>
+      <PropertyRef Name="oyuncu_id" />
+    </Key>
+    <Property Name="oyuncu_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="film_oyuncu" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="salon">
+    <Key>
+      <PropertyRef Name="salon_id" />
+    </Key>
+    <Property Name="salon_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="salon_adi" Type="nvarchar" MaxLength="50" />
+    <Property Name="film_id" Type="int" />
+    <Property Name="kapasite" Type="numeric" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="seans">
+    <Key>
+      <PropertyRef Name="seans_id" />
+    </Key>
+    <Property Name="seans_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="seans_saat" Type="nvarchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="yapımcı">
+    <Key>
+      <PropertyRef Name="yapimci_id" />
+    </Key>
+    <Property Name="yapimci_id" Type="int" Nullable="false" />
+    <Property Name="yapimci_adi" Type="nvarchar" MaxLength="50" />
+    <Property Name="film_id" Type="int" />
+  </EntityType>
+  <EntityType Name="yapimci">
+    <Key>
+      <PropertyRef Name="yapimci_id" />
+    </Key>
+    <Property Name="yapimci_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="yapimci_adi" Type="nvarchar" MaxLength="50" />
+    <Property Name="film_id" Type="int" />
+  </EntityType>
+  <EntityType Name="yonetmen">
+    <Key>
+      <PropertyRef Name="yonetmen_id" />
+    </Key>
+    <Property Name="yonetmen_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="yonetmen_adi" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <Function Name="fn_diagramobjects" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="true" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" ReturnType="int" />
+  <Function Name="sp_alterdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_creatediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="version" Type="int" Mode="In" />
+    <Parameter Name="definition" Type="varbinary(max)" Mode="In" />
+  </Function>
+  <Function Name="sp_dropdiagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagramdefinition" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_helpdiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+  </Function>
+  <Function Name="sp_renamediagram" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo">
+    <Parameter Name="diagramname" Type="nvarchar" Mode="In" />
+    <Parameter Name="owner_id" Type="int" Mode="In" />
+    <Parameter Name="new_diagramname" Type="nvarchar" Mode="In" />
+  </Function>
+  <Function Name="sp_upgraddiagrams" Aggregate="false" BuiltIn="false" NiladicFunction="false" IsComposable="false" ParameterTypeSemantics="AllowImplicitConversion" Schema="dbo" />
+  <EntityContainer Name="sinema_otomasyonModelStoreContainer">
+    <EntitySet Name="admin" EntityType="Self.admin" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="bilet" EntityType="Self.bilet" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="film_kategori" EntityType="Self.film_kategori" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="film_seans" EntityType="Self.film_seans" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="filmler" EntityType="Self.filmler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="koltuk" EntityType="Self.koltuk" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="musteriler" EntityType="Self.musteriler" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="oyuncu" EntityType="Self.oyuncu" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="salon" EntityType="Self.salon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="seans" EntityType="Self.seans" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="yapımcı" EntityType="Self.yapımcı" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="yapimci" EntityType="Self.yapimci" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="yonetmen" EntityType="Self.yonetmen" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

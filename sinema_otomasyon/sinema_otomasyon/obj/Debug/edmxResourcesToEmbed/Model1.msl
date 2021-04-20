@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="sinema_otomasyonModelStoreContainer" CdmEntityContainer="veritabani">
+    <EntitySetMapping Name="admin">
+      <EntityTypeMapping TypeName="sinema_otomasyonModel.admin">
+        <MappingFragment StoreEntitySet="admin">
+          <ScalarProperty Name="admin_id" ColumnName="admin_id" />
+          <ScalarProperty Name="admin_kadi" ColumnName="admin_kadi" />
+          <ScalarProperty Name="admin_sifre" ColumnName="admin_sifre" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="bilet">
+      <EntityTypeMapping TypeName="sinema_otomasyonModel.bilet">
+        <MappingFragment StoreEntitySet="bilet">
+          <ScalarProperty Name="bilet_id" ColumnName="bilet_id" />
+          <ScalarProperty Name="film_adi" ColumnName="film_adi" />
+          <ScalarProperty Name="koltuk_id" ColumnName="koltuk_id" />
+          <ScalarProperty Name="salon_id" ColumnName="salon_id" />
+          <ScalarProperty Name="seans_id" ColumnName="seans_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="film_kategori">
+      <EntityTypeMapping TypeName="sinema_otomasyonModel.film_kategori">
+        <MappingFragment StoreEntitySet="film_kategori">
+          <ScalarProperty Name="tur_id" ColumnName="tur_id" />
+          <ScalarProperty Name="tur_adi" ColumnName="tur_adi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="film_seans">
+      <EntityTypeMapping TypeName="sinema_otomasyonModel.film_seans">
+        <MappingFragment StoreEntitySet="film_seans">
+          <ScalarProperty Name="film_id" ColumnName="film_id" />
+          <ScalarProperty Name="film_adi" ColumnName="film_adi" />
+          <ScalarProperty Name="seans_tarih" ColumnName="seans_tarih" />
+          <ScalarProperty Name="seans_saat" ColumnName="seans_saat" />
+          <ScalarProperty Name="salon_adi" ColumnName="salon_adi" />
+          <ScalarProperty Name="film_resim" ColumnName="film_resim" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="filmler">
+      <EntityTypeMapping TypeName="sinema_otomasyonModel.filmler">
+        <MappingFragment StoreEntitySet="filmler">
+          <ScalarProperty Name="film_id" ColumnName="film_id" />
+          <ScalarProperty Name="film_adi" ColumnName="film_adi" />
+          <ScalarProperty Name="film_turu" ColumnName="film_turu" />
+          <ScalarProperty Name="yonetmen_adi" ColumnName="yonetmen_adi" />
+          <ScalarProperty Name="yapimci_adi" ColumnName="yapimci_adi" />
+          <ScalarProperty Name="film_oyuncu" ColumnName="film_oyuncu" />
+          <ScalarProperty Name="film_tarih" ColumnName="film_tarih" />
+          <ScalarProperty Name="film_resim" ColumnName="film_resim" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="koltuk">
+      <EntityTypeMapping TypeName="sinema_otomasyonModel.koltuk">
+        <MappingFragment StoreEntitySet="koltuk">
+          <ScalarProperty Name="koltuk_id" ColumnName="koltuk_id" />
+          <ScalarProperty Name="salon_id" ColumnName="salon_id" />
+          <ScalarProperty Name="koltuk_sayisi" ColumnName="koltuk_sayisi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="musteriler">
+      <EntityTypeMapping TypeName="sinema_otomasyonModel.musteriler">
+        <MappingFragment StoreEntitySet="musteriler">
+          <ScalarProperty Name="musteri_id" ColumnName="musteri_id" />
+          <ScalarProperty Name="musteri_adi" ColumnName="musteri_adi" />
+          <ScalarProperty Name="musteri_soyadi" ColumnName="musteri_soyadi" />
+          <ScalarProperty Name="musteri_telefon" ColumnName="musteri_telefon" />
+          <ScalarProperty Name="musteri_tipi" ColumnName="musteri_tipi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="oyuncu">
+      <EntityTypeMapping TypeName="sinema_otomasyonModel.oyuncu">
+        <MappingFragment StoreEntitySet="oyuncu">
+          <ScalarProperty Name="oyuncu_id" ColumnName="oyuncu_id" />
+          <ScalarProperty Name="film_oyuncu" ColumnName="film_oyuncu" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="salon">
+      <EntityTypeMapping TypeName="sinema_otomasyonModel.salon">
+        <MappingFragment StoreEntitySet="salon">
+          <ScalarProperty Name="salon_id" ColumnName="salon_id" />
+          <ScalarProperty Name="salon_adi" ColumnName="salon_adi" />
+          <ScalarProperty Name="film_id" ColumnName="film_id" />
+          <ScalarProperty Name="kapasite" ColumnName="kapasite" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="seans">
+      <EntityTypeMapping TypeName="sinema_otomasyonModel.seans">
+        <MappingFragment StoreEntitySet="seans">
+          <ScalarProperty Name="seans_id" ColumnName="seans_id" />
+          <ScalarProperty Name="seans_saat" ColumnName="seans_saat" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="sinema_otomasyonModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="yapımcı">
+      <EntityTypeMapping TypeName="sinema_otomasyonModel.yapımcı">
+        <MappingFragment StoreEntitySet="yapımcı">
+          <ScalarProperty Name="yapimci_id" ColumnName="yapimci_id" />
+          <ScalarProperty Name="yapimci_adi" ColumnName="yapimci_adi" />
+          <ScalarProperty Name="film_id" ColumnName="film_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="yapimci">
+      <EntityTypeMapping TypeName="sinema_otomasyonModel.yapimci">
+        <MappingFragment StoreEntitySet="yapimci">
+          <ScalarProperty Name="yapimci_id" ColumnName="yapimci_id" />
+          <ScalarProperty Name="yapimci_adi" ColumnName="yapimci_adi" />
+          <ScalarProperty Name="film_id" ColumnName="film_id" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="yonetmen">
+      <EntityTypeMapping TypeName="sinema_otomasyonModel.yonetmen">
+        <MappingFragment StoreEntitySet="yonetmen">
+          <ScalarProperty Name="yonetmen_id" ColumnName="yonetmen_id" />
+          <ScalarProperty Name="yonetmen_adi" ColumnName="yonetmen_adi" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="sp_alterdiagram" FunctionName="sinema_otomasyonModel.Store.sp_alterdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_creatediagram" FunctionName="sinema_otomasyonModel.Store.sp_creatediagram" />
+    <FunctionImportMapping FunctionImportName="sp_dropdiagram" FunctionName="sinema_otomasyonModel.Store.sp_dropdiagram" />
+    <FunctionImportMapping FunctionImportName="sp_helpdiagramdefinition" FunctionName="sinema_otomasyonModel.Store.sp_helpdiagramdefinition">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="sinema_otomasyonModel.sp_helpdiagramdefinition_Result">
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_helpdiagrams" FunctionName="sinema_otomasyonModel.Store.sp_helpdiagrams">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="sinema_otomasyonModel.sp_helpdiagrams_Result">
+          <ScalarProperty Name="Database" ColumnName="Database" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="Owner" ColumnName="Owner" />
+          <ScalarProperty Name="OwnerID" ColumnName="OwnerID" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="sp_renamediagram" FunctionName="sinema_otomasyonModel.Store.sp_renamediagram" />
+    <FunctionImportMapping FunctionImportName="sp_upgraddiagrams" FunctionName="sinema_otomasyonModel.Store.sp_upgraddiagrams" />
+  </EntityContainerMapping>
+</Mapping>

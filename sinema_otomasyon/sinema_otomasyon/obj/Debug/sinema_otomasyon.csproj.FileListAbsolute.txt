@@ -1,0 +1,201 @@
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\Sinema Otomasyonu\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\sinema-otomasyon\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form2.resources
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form3.resources
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form4.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\30-03-2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\ozqeu\OneDrive\Masaüstü\30-03-2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\ozqeu\OneDrive\Masaüstü\30-03-2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\ozqeu\OneDrive\Masaüstü\30-03-2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\ozqeu\OneDrive\Masaüstü\30-03-2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\30-03-2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form2.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\30-03-2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form3.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\30-03-2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form4.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\30-03-2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\30-03-2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\ozqeu\OneDrive\Masaüstü\30-03-2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ozqeu\OneDrive\Masaüstü\30-03-2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\ozqeu\OneDrive\Masaüstü\30-03-2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\ozqeu\OneDrive\Masaüstü\31.03.21\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\ozqeu\OneDrive\Masaüstü\31.03.21\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\ozqeu\OneDrive\Masaüstü\31.03.21\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\ozqeu\OneDrive\Masaüstü\31.03.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\ozqeu\OneDrive\Masaüstü\31.03.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\31.03.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form2.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\31.03.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form3.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\31.03.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form4.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\31.03.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\31.03.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\ozqeu\OneDrive\Masaüstü\31.03.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ozqeu\OneDrive\Masaüstü\31.03.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\ozqeu\OneDrive\Masaüstü\31.03.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\1.04.2021-main\1.04.21\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\Talha\Desktop\1.04.2021-main\1.04.21\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\1.04.2021-main\1.04.21\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\1.04.2021-main\1.04.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\Talha\Desktop\1.04.2021-main\1.04.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\Talha\Desktop\1.04.2021-main\1.04.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form2.resources
+C:\Users\Talha\Desktop\1.04.2021-main\1.04.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form3.resources
+C:\Users\Talha\Desktop\1.04.2021-main\1.04.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form4.resources
+C:\Users\Talha\Desktop\1.04.2021-main\1.04.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\Talha\Desktop\1.04.2021-main\1.04.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\1.04.2021-main\1.04.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\1.04.2021-main\1.04.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\1.04.2021-main\1.04.21\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\OZLEM\Desktop\sinema\2.04.2021\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\OZLEM\Desktop\sinema\2.04.2021\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\OZLEM\Desktop\sinema\2.04.2021\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\OZLEM\Desktop\sinema\2.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\OZLEM\Desktop\sinema\2.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\OZLEM\Desktop\sinema\2.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form2.resources
+C:\Users\OZLEM\Desktop\sinema\2.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form3.resources
+C:\Users\OZLEM\Desktop\sinema\2.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form4.resources
+C:\Users\OZLEM\Desktop\sinema\2.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form5.resources
+C:\Users\OZLEM\Desktop\sinema\2.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\OZLEM\Desktop\sinema\2.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\OZLEM\Desktop\sinema\2.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\OZLEM\Desktop\sinema\2.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\OZLEM\Desktop\sinema\2.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form2.resources
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form3.resources
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form4.resources
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form5.resources
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\02-04-21-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form6.resources
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form5.resources
+C:\Users\Talha\Desktop\Bilgisayar Programcılığı\BaharDonemi2.sınıf\Sistem Analizi\Dosyalar\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form6.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form2.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form3.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form4.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form5.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form6.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form7.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\ozqeu\OneDrive\Masaüstü\10.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form2.resources
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form3.resources
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form4.resources
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form5.resources
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form6.resources
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form7.resources
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\11.04.2021-main\11.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form2.resources
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form3.resources
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form4.resources
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form5.resources
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form6.resources
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form7.resources
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form8.resources
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\bin\Debug\EntityFramework.dll
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\bin\Debug\EntityFramework.xml
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Talha\Desktop\16.04.2021\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CopyComplete
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form2.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form3.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form4.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form5.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form6.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form7.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form8.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\EntityFramework.dll
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\EntityFramework.xml
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ozqeu\OneDrive\Masaüstü\18.04.2021-main\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CopyComplete
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe.config
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\sinema_otomasyon.pdb
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\EntityFramework.dll
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\EntityFramework.xml
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csprojAssemblyReference.cache
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form1.resources
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form2.resources
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form3.resources
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form4.resources
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form5.resources
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form6.resources
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form7.resources
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Form8.resources
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.Properties.Resources.resources
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.GenerateResource.cache
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.csproj.CopyComplete
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.exe
+C:\Users\Talha\Desktop\16.04.2021-main\sinema_otomasyon\sinema_otomasyon\obj\Debug\sinema_otomasyon.pdb
